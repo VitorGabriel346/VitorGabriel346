@@ -62,7 +62,7 @@
 ### 🏅 Disciplina & Soft Skills
 
 > **Background Institucional:** Serviço Militar no Exército Brasileiro (1 ano de atuação).
-- **Trabalho em Equipe & Liderança:** Adaptação rápida a ambientes dinâmicos e cooperação técnica sob exigência.
+- **Trabalho em Equipe:** Adaptação rápida a ambientes dinâmicos e cooperação técnica sob exigência.
 - **Disciplina & Prazos:** Alta capacidade de organização, pontualidade e rigor no cumprimento de processos.
 - **Resolução de Problemas:** Foco na execução clara e eficiente diante de cenários complexos.
 
