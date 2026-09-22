@@ -14,7 +14,6 @@
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** no Centro Universitário FAM.
 - 📊 Em formação intensiva em **Data Analytics** na **Generation Brasil** (Bootcamp de 400h).
 - 💡 Foco na transformação de dados brutos em insights operacionais e de negócios, utilizando **Python (Pandas/Matplotlib)**, **SQL**, **Power BI** e **Excel**.
-- 📐 Experiência em Engenharia de Software inicial com levantamento de requisitos e diagramação UML (Draw.io / PlantUML).
 
 ---
 
@@ -30,7 +29,6 @@
   <!-- FERRAMENTAS DE DESENVOLVIMENTO & MODELAGEM -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Draw.io" />
 </div>
 
 ---
